@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Charan</h1>
 <h3 align="center">A passionate Tech enthusiast</h3>
 
-- 🌱 I’m currently learning **Android Development and web3**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **saicharanbk2006@gmail.com**
 
